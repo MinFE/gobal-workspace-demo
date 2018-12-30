@@ -1,0 +1,14 @@
+{
+  "name": "workspaces-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "minfive <chenxiaowu1994@outlook.com> (http://blog.minfive.com/)",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "./*"
+    ],
+    "nohoist": []
+  }
+}

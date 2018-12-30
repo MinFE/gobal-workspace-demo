@@ -1,0 +1,11 @@
+{
+  "name": "@private-pack/pack2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "minfive <chenxiaowu1994@outlook.com> (http://blog.minfive.com/)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "vue": "2.5.10"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@private-pack/pack1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "minfive <chenxiaowu1994@outlook.com> (http://blog.minfive.com/)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "loadsh": "0.0.2"
+  }
+}
